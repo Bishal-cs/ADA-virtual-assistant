@@ -1,0 +1,7 @@
+googlesearch-python
+
+vosk
+
+numpy
+
+sounddevice
